@@ -1,5 +1,5 @@
-# Olá, me chamo Nathan Macedo ! 
-## Bem vindo ao meu perfil GitHub 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Nathan Macedo and my nickname is "NathanMaced"!
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
